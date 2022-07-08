@@ -1,8 +1,18 @@
 # 探究自动打卡的原理与对抗策略
 
-## What's New? (updated on May 7th)
+## What's New?
 
-现已支持验证码识别+自动填写～
+### Jul 8th
+
+支持自动填写表单新增的实习选项。
+https://github.com/vtu81/ZJU-Clock-In/blob/c4ea9c29fef110f1c3a7abf304f5001a58d7d2ed/clock-in.py#L125
+
+### May 7th
+
+<s>现已支持验证码识别+自动填写～</s>
+
+目前打卡验证码已取消，相关代码已经注释掉了：
+https://github.com/vtu81/ZJU-Clock-In/blob/c4ea9c29fef110f1c3a7abf304f5001a58d7d2ed/clock-in.py#L122
 
 ## 使用须知
 
